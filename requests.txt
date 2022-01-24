@@ -1,0 +1,4 @@
+pycopy-webbrowser
+PyAutoGUI == 0.9.53
+times == 0.7
+DateTime == 4.3
