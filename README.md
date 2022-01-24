@@ -1,0 +1,2 @@
+# ajs
+auto join leson
